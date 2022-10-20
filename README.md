@@ -9,7 +9,7 @@ The aim of this project is to build a VGG16 model that can detect the area of da
 <img width="612" alt="Untitled" src="https://user-images.githubusercontent.com/113599453/196982117-cedeb9c6-0689-4023-b148-a26cd90fbb02.png">
 
 
-#Assignments
-ASSignment 1
-Assignment 2
-Assignment 3
+# Assignments
+☑Assignment 1
+☑Assignment 2
+☑Assignment 3
