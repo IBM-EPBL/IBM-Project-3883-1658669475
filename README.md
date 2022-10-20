@@ -10,9 +10,7 @@ The aim of this project is to build a VGG16 model that can detect the area of da
 
 
 # Assignments
-✅ Assignment 1
-✅ Assignment 2
-✅ Assignment 3
+✅ Assignment 1 ✅ Assignment 2 ✅ Assignment 3
 # Project Design & Planning
 IDEATION PHASE
 
